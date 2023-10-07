@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@rainbow-me/rainbowkit": "workspace:*",
-    "@rainbow-me/rainbowkit-siwe-next-auth": "workspace:*",
+    "@rainbow-me/rainbowkit": "^1.1.1",
+    "@rainbow-me/rainbowkit-siwe-next-auth": "^0.3.1",
     "ethers": "^5.6.8",
     "next": "^13.4.19",
     "next-auth": "4.22.3",
